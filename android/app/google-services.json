@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "358505628191",
+    "project_id": "geosense-657ae",
+    "storage_bucket": "geosense-657ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358505628191:android:06ab692b5fe339b7210b2a",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358505628191-pkec7mi95hg85lc9sk0m33hdj8bngq8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rive_animation",
+            "certificate_hash": "783f22a71819455021331ad7befff7b08a70377b"
+          }
+        },
+        {
+          "client_id": "358505628191-pr69v086tdi4ht8jgafl672pmve1eo0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkt0c0EzolLbKLIVFXKHwbZ8eUUC3OEoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358505628191-pr69v086tdi4ht8jgafl672pmve1eo0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358505628191-0j8gm4uev2aq3243bg8257t944afo642.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "861823949799-vc35cprkp249096uujjn0vvnmcvjppkn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
