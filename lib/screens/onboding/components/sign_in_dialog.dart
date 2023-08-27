@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:rive_animation/screens/entryPoint/entry_point.dart';
 
 import 'package:rive_animation/screens/onboding/components/register.dart';
 import 'package:rive_animation/services/google_signin.dart';
@@ -115,6 +116,11 @@ void showCustomDialog(BuildContext context, {required ValueChanged onValue}) {
                         ),
                         IconButton(
                           onPressed: () => GoogleAuth().signInWithGoogle(),
+                        
+                      
+           
+              
+          
                           padding: EdgeInsets.zero,
                           icon: SvgPicture.asset(
                             "assets/icons/icons8-google.svg",
@@ -123,12 +129,15 @@ void showCustomDialog(BuildContext context, {required ValueChanged onValue}) {
                           )
                           
                         ),
+                        
                       ],
                     ),
                   ],
                 ),
+                
                
               ],
+              
             ),
           ),
         ),
